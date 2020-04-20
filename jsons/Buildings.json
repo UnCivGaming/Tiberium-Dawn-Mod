@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Reclamator Hub",
+		"replaces": "Military Academy",
+		"cost": 400,
+		"uniqueTo": "ZOCOM",
+		"xpForNewUnits": 30,
+		"hurryCostModifier": 25,
+		"production": 10,
+		"maintenance": 1,
+		"requiredBuilding": "Armory",
+		"requiredTech": "Military Science"
+	},
+	{
+		"name": "Hand Of Nod",
+		"replaces": "Barracks",
+		"cost": 75,
+		"uniqueTo": "Nod",
+		"xpForNewUnits": 30,
+		"hurryCostModifier": 10,
+		"maintenance": 1,
+		"requiredTech": "Bronze Working"
+	},
+		{
+		"name": "Tiberium Silo",
+		"gold": 10,
+		"replaces": "Bank",
+		"cost": 375,
+		"uniqueTo": "GDI",
+		"specialistSlots": {"gold": 5},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 30},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Supercomputer", 
+		"replaces": "Workshop",
+		"cost": 190,
+		"uniqueTo": "C.A.B.A.L",
+		"maintenance": 0,
+		"production": 5,
+		"specialistSlots": {"production": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 35},
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Mutant Hovel",
+		"replaces": "Factory",
+		"cost": 380,
+		"uniqueTo": "The Forgotten",
+		"production": 6,
+		"percentStatBonus": {"production": 25},
+		"specialistSlots": {"production": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredResource": "Aluminum",
+		"requiredTech": "Industrialization"
+	},
+]

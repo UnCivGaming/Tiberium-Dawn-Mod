@@ -1,0 +1,174 @@
+[
+   {
+		"name": "Nod",
+		"leaderName": "Kane",
+		"adjective": ["People of Nod"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
+		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
+		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
+		"introduction": "If I am cut, Do I not bleed?",
+		"neutralHello": "Hello.",
+		"hateHello": "So what now?",
+		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"unique": "MONGOL_TERROR",
+		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
+	{
+		"name": "Black Hand",
+		"leaderName": "Anton Slavik",
+		"adjective": ["People of Nod"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text",
+		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
+		"attacked": "Pitiful fool! Now we shall destroy you!",
+		"defeated": "I see for the black hand has been unworthy to serve Kane.",
+		"introduction": "If you would stay out of our way then you might live to tell your tale.",
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, you...",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"outerColor": [139,0,0],
+		"innerColor": [0,0,0],
+		"unique": "BUSHIDO",
+		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},	
+	{
+		"name": "Marked of Kane",
+		"leaderName": "Legion",
+		"adjective": ["People of Nod"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text",
+		"declaringWar": "Soon! your people will perish from the awakened!",
+		"attacked": "Do you think a bundle of flesh would defeat us?",
+		"defeated": "O dear Kane for I am sorry for not staying by your side.",
+		"introduction": "Greetings, Human. for it is I, Legion of the Marked Of Kane.",
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, you...",
+		"tradeRequest": "May this trade be the foundation of our pact",
+		"outerColor": [105,105,105],
+		"innerColor": [139,0,0],
+		"unique": "BUSHIDO",
+		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
+	
+{
+		"name": "GDI",
+		"leaderName": "General Solomon",
+		"adjective": ["humans"],	
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "You might have connections with the brotherhood, if so then you shall begone.",
+		"attacked": "Ha! try to fend off a union of nations around the world by yourself",
+		"defeated": "If we lost then who shall protect this barren world?",
+		"introduction": "Greetings,for I am General Solomon of the global defense initiave.",
+		"neutralHello": "Welcome.",
+		"hateHello": "Greetings.",
+		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
+		"outerColor": [168,168,168],
+		"innerColor": [240,94,35],
+		"unique": "FATHER_GOVERNS_CHILDREN",
+		"cities": ["Washington, D.C","Moscow","New Delhi","Kuwait City","Manila","Beijing","Santiago","Moroni","PanamaCity","Harare","Lusaka","Montevideo","Abu Dhabi","Kampala"]
+	},
+	{
+		"name": "ZOCOM",
+		"leaderName": "Elena Renteria",
+		"adjective": ["Humans"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		
+		"declaringWar": "I presume that you have unruly intentions, it is time for you to cease to exist",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Impposible?! how can you beat someone more technologically advanced as you??",
+		"introduction": "Greetings, for is it us, the zone operations command to cleanse the world from evil.",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [0,0,139],
+		"innerColor": [255,223,0],
+		"unique": "INGENUITY",
+		"cities": ["Washington, D.C","Moscow","New Delhi","Kuwait City","Manila","Beijing","Santiago","Moroni","PanamaCity","Harare","Lusaka","Montevideo","Abu Dhabi","Kampala"]
+	},
+	{
+		"name": "Steel Talons",
+		"leaderName": "Joshua Mitchell",
+		"adjective": ["Humans"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Sample Text",
+		"startIntroPart2": "Sample Text.",
+		"declaringWar": "I am getting very impatient with my experimental weapons, you're the empire who would be lucky enough to test it.",
+		"attacked": "Foolish, miserable wretch! You will be crushed by this country's magnificent scientific power!",
+		"defeated": "We are but steps away on putting the brotherhood into a dusty fate, but may we be lost to history.",
+		"introduction": "We are created to test experimental weapons for it is I, Joshua Mitchell of the Steel Talons.",
+		
+		"neutralHello": "Why hello there.",
+		"hateHello": "what do you need? a peace treaty?",
+		"outerColor": [105,105,105],
+		"innerColor": [212,175,55],
+		"unique": "SIBERIAN_RICHES",
+		"cities": ["Washington, D.C","Moscow","New Delhi","Kuwait City","Manila","Beijing","Santiago","Moroni","PanamaCity","Harare","Lusaka","Montevideo","Abu Dhabi","Kampala"]
+	},
+	{
+		"name": "The Forgotten",
+		"leaderName": "Tartos",
+		"adjective": ["Mutants"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "The Blessings of Heaven be upon you. Empress Wu Zetian, most beautiful and haughty ruler of China! Oh great Empress, whose shadow causes the flowers to blossom and the rivers to flow! You are the leader of the Chinese, the oldest and the greatest civilization that humanity has ever produced. China's history stretches back into the mists of time, its people achieving many great things long before the other upstart civilizations were even conceived. China's contributions to the arts and sciences are too many and too wondrous to do justice to - the printing press, gunpowder, the works of Confucius - these are but a few of the gifts China has given to an undeserving world!",
+		"startIntroPart2": "You, great Queen, who, with cunning and beauty, rose from the position of lowly concubine to that of Divine Empress - your people call out to you to lead them! Great China is once again beset on all sides by barbarians. Can you defeat all your many foes and return your country to greatness? Can you build a civilization to stand the test of time?",
+		"declaringWar": "It seems that you have intentions of wiping us out, this is goodbye.",
+		"attacked": "Fool! I will disembowel you all!",
+		"defeated": "Great job,for you have eradicated a race that was formally your own.",
+		"introduction": "Greetings, I am Tartos of The Forgotten.",
+		"neutralHello": "How are you today?",
+		"hateHello": "Oh. It's you?",
+		"tradeRequest": "Would you accept this trade offering my friend?",
+		"outerColor": [0,255,0],
+		"innerColor": [0,128,0],
+		"unique": "ART_OF_WAR",
+		"cities": ["Bea","Topuefio","Ta‘anea","Kala‘au","Hihifo","Fatai","Puleieia","Futu","Tefisi", 
+"Hatou","Huma","Bukutala","’Otea","Longomapu","Fatumu","Tufavai","Fonginonga","Tuanekevale","Veitongo","Tongamama‘o","Ha‘ateiho","Vaimalo"]
+	},
+		{
+		"name": "C.A.B.A.L",
+		"leaderName": "CABAL",
+		"adjective": ["American"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Welcome President Washington! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. They lack only a leader to help them fulfill their promise.",
+		"startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "The people of the United States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+		"outerColor": [0,0,139],
+		"innerColor": [0,255,255],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Bea","Topuefio","Ta‘anea","Kala‘au","Hihifo","Fatai","Puleieia","Futu","Tefisi", 
+"Hatou","Huma","Bukutala","’Otea","Longomapu","Fatumu","Tufavai","Fonginonga","Tuanekevale","Veitongo","Tongamama‘o","Ha‘ateiho","Vaimalo"]
+	},
+
+]
+

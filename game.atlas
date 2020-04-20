@@ -1,0 +1,272 @@
+
+game.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Hand Of Nod
+  rotate: false
+  xy: 1392, 876
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mutant Hovel
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Reclamator Hub
+  rotate: false
+  xy: 1070, 460
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+BuildingIcons/Supercomputer
+  rotate: false
+  xy: 1392, 774
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tiberium Silo
+  rotate: false
+  xy: 1494, 876
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/C.A.B.A.L
+  rotate: false
+  xy: 968, 492
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Centurion
+  rotate: false
+  xy: 968, 492
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cyborg Reaper
+  rotate: false
+  xy: 968, 492
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/GDI
+  rotate: false
+  xy: 1290, 774
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orca
+  rotate: false
+  xy: 1290, 774
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sniper Squad
+  rotate: false
+  xy: 1290, 774
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Nod
+  rotate: false
+  xy: 234, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scorpion Tank
+  rotate: false
+  xy: 234, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tiberium Trooper
+  rotate: false
+  xy: 234, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Flame Tank
+  rotate: false
+  xy: 2, 696
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Awakened
+  rotate: false
+  xy: 2, 414
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Behemoth
+  rotate: false
+  xy: 324, 696
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Black Disciple
+  rotate: false
+  xy: 2, 132
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Enlightened
+  rotate: false
+  xy: 324, 414
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/M.A.R.V
+  rotate: false
+  xy: 646, 696
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scorpion Tank
+  rotate: false
+  xy: 324, 132
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sniper squad
+  rotate: false
+  xy: 646, 414
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tiberium Trooper
+  rotate: false
+  xy: 968, 696
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Wolverine Mk.II
+  rotate: false
+  xy: 646, 132
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Flame Tank
+  rotate: false
+  xy: 1290, 876
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Black Hand
+  rotate: false
+  xy: 1290, 876
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Black Disciple
+  rotate: false
+  xy: 1290, 876
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Awakened
+  rotate: false
+  xy: 968, 594
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Marked of Kane
+  rotate: false
+  xy: 968, 594
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Enlightened
+  rotate: false
+  xy: 968, 594
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Behemoth
+  rotate: false
+  xy: 132, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Steel Talons
+  rotate: false
+  xy: 132, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wolverine Mk.II
+  rotate: false
+  xy: 132, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Forgotten Ironback
+  rotate: false
+  xy: 1090, 594
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Forgotten
+  rotate: false
+  xy: 1090, 594
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mutant Soldier
+  rotate: false
+  xy: 1090, 594
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/M.A.R.V
+  rotate: false
+  xy: 968, 358
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+NationIcons/ZOCOM
+  rotate: false
+  xy: 968, 358
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
