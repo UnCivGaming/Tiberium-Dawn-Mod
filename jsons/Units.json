@@ -1,30 +1,30 @@
 [
 	{
 		"name": "Tiberium Trooper",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 		"uniqueTo": "Nod",
 		"movement": 4,
 		"strength": 80,
 		"cost": 375,
 		"requiredTech": "Plastics",
-		"uniques": ["Bonus vs Ranged 50%"]
+		"uniques": ["[+50]% Strength <vs [Ranged Gunpowder ] units>"],
 		"promotions": ["Blitz"],
 		"hurryCostModifier": 10,
 		"attackSound": "shot"
 	},
 	{
 		"name": "Sniper Squad",
-		"unitType": "Ranged",
+		"unitType": "Ranged Gunpowder",
 		"replaces": "Infantry",
 	    "uniqueTo": "GDI",
 		"movement": 1,
-		"strength": 40,
+		"strength": 30,
 		"rangedStrength": 75,
-		"range": 4,
+		"range": 3,
 		"cost": 390,
 		"requiredTech": "Plastics",
-		"uniques": ["Bonus vs Melee 50%"]
+		"uniques": ["[+50]% Strength <vs [Gunpowder] units>"],
 		"promotions": ["Logistics"],
 		"hurryCostModifier": 10,
 		"attackSound": "shot"
@@ -42,12 +42,12 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
 		"hurryCostModifier": 10,
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+100]% Strength <vs [Armored] units>"],
 		"attackSound": "shot"
-		"uniques": ["Bonus vs City 200%","Bonus vs Armor 100%"],
 	},
 	{
 		"name": "Scorpion Tank",
-		"unitType": "Armor",
+		"unitType": "Armored",
 	     "replaces": "Modern Armor",
 	    "uniqueTo": "Nod",
 		"movement": 6,
@@ -62,7 +62,7 @@
 	},
 	{
 		"name": "M.A.R.V",
-		"unitType": "Armor",
+		"unitType": "Armored",
 	     "replaces": "Modern Armor",
 	    "uniqueTo": "ZOCOM",
 		"movement": 2,
@@ -70,7 +70,7 @@
 		"cost": 780,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["Bonus vs Armor 200%","Bonus vs City 300%"],
+		"uniques": ["[+100]% Strength <vs [Armored] units>","[+300]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 10
 	},
 	{
@@ -84,22 +84,22 @@
 		"rangedStrength": 85,
 		"cost": 480,
 		"requiredTech": "Ballistics",
-		"uniques": ["Bonus vs Armor 100%","Bonus vs Ranged 100%","Bonus vs Melee 100%"],
-		"promotions": ["Logistics"],
+		"uniques": ["[+50]% Strength <vs [Ranged Gunpowder] units>","[+50]% Strength <vs [Gunpowder] units>"],
+		"promotions": ["Blitz"],
 		"hurryCostModifier": 10,
 		"attackSound": "machinegun"
 	},
 	{
 		"name": "Advanced Flame Tank",
-		"unitType": "Armor",
+		"unitType": "Armored",
 	    "replaces": "Modern Armor",
 	    "uniqueTo": "Black Hand",
 		"movement": 5,
 		"strength": 125,
-		"cost": 605,
+		"cost": 558,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["Bonus vs Melee 200%","Bonus vs Ranged 200%","Penalty vs Armor 100%","Can move after attacking"],
+		"uniques": ["[+100]% Strength <vs [Gunpowder] units>","[+100]% Strength <vs [Ranged Gunpowder] units>","[-100]% Strength <vs [Armored] units>","Can move after attacking"],
 		"hurryCostModifier": 10
 	},
 	{
@@ -110,17 +110,17 @@
 		"movement": 1,
 		"strength": 55,
 		"rangedStrength": 85,
-		"range": 4,
+		"range": 3,
 		"cost": 700,
 		"requiredTech": "Rocketry",
 		"requiredResource": "Aluminum",
-		"uniques": ["Bonus vs City 200%","No defensive terrain bonus",
-			"Limited Visibility","Ranged attacks may be performed over obstacles"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"[-1] Sight","Ranged attacks may be performed over obstacles"],
 		"hurryCostModifier": 10
 	},
 	{
 		"name": "Wolverine Mk.II",
-		"unitType": "Melee",
+		"unitType": "Armored",
 		"replaces": "Mechanized Infantry",
 	    "uniqueTo": "Steel Talons",
 		"movement": 1,
@@ -128,12 +128,12 @@
 		"cost": 600,
 		"requiredTech": "Mobile Tactics",
 		"requiredResource": "Iron",
-		"uniques": ["Bonus vs Melee 300%","Bonus vs Ranged 300%","Penalty vs Armor 200%"],
+		"uniques": ["[+70]% Strength <vs [Gunpowder] units>","[+70]% Strength <vs [Ranged Gunpowder] units>"],
 		"hurryCostModifier": 10
 	},
 	{
 		"name": "Awakened",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 	    "uniqueTo": "Marked of Kane",
 		"movement": 3,
@@ -141,13 +141,13 @@
 		"cost": 455,
 		"requiredTech": "Plastics",
 		"requiredResource": "Iron",
-		"uniques": ["Bonus vs Melee 100%","Bonus vs Ranged 100%","Bonus vs Armor 200%"],
+		"uniques": ["[+70]% Strength <vs [Gunpowder] units>","[+50]% Strength <vs [Ranged Gunpowder] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
 	{
 		"name": "Enlightened",
-		"unitType": "Ranged",
+		"unitType": "Ranged Gunpowder",
 		"replaces": "Mechanized Infantry",
 	    "uniqueTo": "Marked of Kane",
 		"movement": 3,
@@ -157,12 +157,12 @@
 		"cost": 550,
 		"requiredTech": "Mobile Tactics",
 		"requiredResource": "Iron",
-		"uniques": ["Bonus vs Armor 300%","Bonus vs City 100%"],
+		"uniques": ["[+125]% Strength <vs [Armored] units>","Bonus vs City 100%"],
 		"hurryCostModifier": 10
 	},
  	{
 		"name": "Centurion",
-		"unitType": "Melee",
+		"unitType": "Armored",
 		"replaces": "Mechanized Infantry",
 	    "uniqueTo": "C.A.B.A.L",
 		"movement": 2,
@@ -170,12 +170,12 @@
 		"cost": 375,
 		"requiredResource": "Aluminum",
 		"requiredTech": "Mobile Tactics",
-	    "uniques": ["Bonus vs Melee 100%","Bonus vs Ranged 100%"],
+	    "uniques": ["[+100]% Strength <vs [Gunpowder] units>","[+50]% Strength <vs [Ranged Gunpowder] units>"],
 		"hurryCostModifier": 20
 	},
     {
 		"name": "Cyborg Reaper",
-		"unitType": "Armor",
+		"unitType": "Armored",
 		"replaces": "Modern Armor",
 	    "uniqueTo": "C.A.B.A.L",
 		"movement": 5,
@@ -183,12 +183,12 @@
 		"cost": 415,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["Can move after attacking","Bonus vs Armor 150%"],
+		"uniques": ["Can move after attacking","[+100]% Strength <vs [Armored] units>"],
 		"hurryCostModifier": 20
 	},
 	   {
 		"name": "Forgotten Ironback",
-		"unitType": "Armor",
+		"unitType": "Armored",
 		"replaces": "Modern Armor",
 	    "uniqueTo": "The Forgotten",
 		"movement": 2,
@@ -196,19 +196,19 @@
 		"cost": 500,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["Bonus vs Armor 150%","Bonus vs City 150%"],
+		"uniques": ["[+150]% Strength <vs [Armored] units>","[+150]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20
 	},
 		{
 		"name": "Mutant Soldier",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 	    "uniqueTo": "The Forgotten",
 		"movement": 2,
 		"strength": 85,
 		"cost": 375,
 		"requiredTech": "Plastics",
-	    "uniques": ["Bonus vs Melee 50%","Bonus vs Ranged 50%","Penalty vs Armor 50%"],
+	    "uniques": ["[+50]% Strength <vs [Gunpowder] units>","[+50]% Strength <vs [Ranged Gunpowder] units>","[-50]% Strength <vs [Armored] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},

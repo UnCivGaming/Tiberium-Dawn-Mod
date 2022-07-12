@@ -16,7 +16,8 @@
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
-		"unique": "MONGOL_TERROR",
+		"uniqueName": "Word of Nod",
+		"uniques": ["+30% Strength when fighting City-State units and cities", "[+2] Movement <for [Armored] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
@@ -37,7 +38,8 @@
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
-		"unique": "BUSHIDO",
+		"uniqueName": "Purification",
+		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},	
@@ -58,7 +60,8 @@
 		"tradeRequest": "May this trade be the foundation of our pact",
 		"outerColor": [105,105,105],
 		"innerColor": [139,0,0],
-		"unique": "BUSHIDO",
+		"uniqueName": "Awakening",
+		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
@@ -69,8 +72,8 @@
 		"adjective": ["humans"],	
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text.",
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
 		"declaringWar": "You might have connections with the brotherhood, if so then you shall begone.",
 		"attacked": "Ha! try to fend off a union of nations around the world by yourself",
 		"defeated": "If we lost then who shall protect this barren world?",
@@ -80,7 +83,8 @@
 		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
 		"outerColor": [168,168,168],
 		"innerColor": [240,94,35],
-		"unique": "FATHER_GOVERNS_CHILDREN",
+		"uniqueName": "We Rise as One",
+		"uniques": ["[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+15] XP"],
 		"cities": ["Washington, D.C","Moscow","New Delhi","Kuwait City","Manila","Beijing","Santiago","Moroni","PanamaCity","Harare","Lusaka","Montevideo","Abu Dhabi","Kampala"]
 	},
 	{
@@ -89,8 +93,8 @@
 		"adjective": ["Humans"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text.",
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
 		
 		"declaringWar": "I presume that you have unruly intentions, it is time for you to cease to exist",
 		"attacked": "Oh well, I presume you know what you're doing.",
@@ -104,7 +108,8 @@
 				
 		"outerColor": [0,0,139],
 		"innerColor": [255,223,0],
-		"unique": "INGENUITY",
+		"uniqueName": "Inetllectuality",
+		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [75]% faster"],
 		"cities": ["Washington, D.C","Moscow","New Delhi","Kuwait City","Manila","Beijing","Santiago","Moroni","PanamaCity","Harare","Lusaka","Montevideo","Abu Dhabi","Kampala"]
 	},
 	{
@@ -113,8 +118,8 @@
 		"adjective": ["Humans"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Sample Text",
-		"startIntroPart2": "Sample Text.",
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
 		"declaringWar": "I am getting very impatient with my experimental weapons, you're the empire who would be lucky enough to test it.",
 		"attacked": "Foolish, miserable wretch! You will be crushed by this country's magnificent scientific power!",
 		"defeated": "We are but steps away on putting the brotherhood into a dusty fate, but may we be lost to history.",
@@ -124,7 +129,8 @@
 		"hateHello": "what do you need? a peace treaty?",
 		"outerColor": [105,105,105],
 		"innerColor": [212,175,55],
-		"unique": "SIBERIAN_RICHES",
+		"uniqueName": "Mass Production",
+		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Aluminum] produced", "Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
 		"cities": ["Washington, D.C","Moscow","New Delhi","Kuwait City","Manila","Beijing","Santiago","Moroni","PanamaCity","Harare","Lusaka","Montevideo","Abu Dhabi","Kampala"]
 	},
 	{
@@ -133,8 +139,8 @@
 		"adjective": ["Mutants"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "The Blessings of Heaven be upon you. Empress Wu Zetian, most beautiful and haughty ruler of China! Oh great Empress, whose shadow causes the flowers to blossom and the rivers to flow! You are the leader of the Chinese, the oldest and the greatest civilization that humanity has ever produced. China's history stretches back into the mists of time, its people achieving many great things long before the other upstart civilizations were even conceived. China's contributions to the arts and sciences are too many and too wondrous to do justice to - the printing press, gunpowder, the works of Confucius - these are but a few of the gifts China has given to an undeserving world!",
-		"startIntroPart2": "You, great Queen, who, with cunning and beauty, rose from the position of lowly concubine to that of Divine Empress - your people call out to you to lead them! Great China is once again beset on all sides by barbarians. Can you defeat all your many foes and return your country to greatness? Can you build a civilization to stand the test of time?",
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
 		"declaringWar": "It seems that you have intentions of wiping us out, this is goodbye.",
 		"attacked": "Fool! I will disembowel you all!",
 		"defeated": "Great job,for you have eradicated a race that was formally your own.",
@@ -144,18 +150,19 @@
 		"tradeRequest": "Would you accept this trade offering my friend?",
 		"outerColor": [0,255,0],
 		"innerColor": [0,128,0],
-		"unique": "ART_OF_WAR",
+		"uniqueName": "Redemption",
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [75]% faster"],
 		"cities": ["Bea","Topuefio","Ta‘anea","Kala‘au","Hihifo","Fatai","Puleieia","Futu","Tefisi", 
 "Hatou","Huma","Bukutala","’Otea","Longomapu","Fatumu","Tufavai","Fonginonga","Tuanekevale","Veitongo","Tongamama‘o","Ha‘ateiho","Vaimalo"]
 	},
 		{
 		"name": "C.A.B.A.L",
 		"leaderName": "CABAL",
-		"adjective": ["American"],
+		"adjective": ["Robot"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Welcome President Washington! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. They lack only a leader to help them fulfill their promise.",
-		"startIntroPart2": "President Washington, can you lead the American people to greatness? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": " ",
+		"startIntroPart2": "",
 		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
 		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
 		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
@@ -165,7 +172,8 @@
 		"tradeRequest": "Is the following trade of interest to you?",
 		"outerColor": [0,0,139],
 		"innerColor": [0,255,255],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Shock and Awe",
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[+1] Movement <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Bea","Topuefio","Ta‘anea","Kala‘au","Hihifo","Fatai","Puleieia","Futu","Tefisi", 
 "Hatou","Huma","Bukutala","’Otea","Longomapu","Fatumu","Tufavai","Fonginonga","Tuanekevale","Veitongo","Tongamama‘o","Ha‘ateiho","Vaimalo"]
 	},
